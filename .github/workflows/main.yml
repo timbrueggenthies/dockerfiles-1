@@ -19,5 +19,5 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          context: /snapserver
+          context: snapserver
           tags: bobbybeat1/snapserver:latest
