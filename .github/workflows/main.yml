@@ -18,4 +18,4 @@ jobs:
         with:
           push: true
           context: /snapserver
-          tag: bobbybeat1/snapserver:latest
+          tags: bobbybeat1/snapserver:latest
